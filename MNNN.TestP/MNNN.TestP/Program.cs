@@ -10,6 +10,7 @@ namespace MNNN.TestP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("some stuf here!");
         }
     }
 }
