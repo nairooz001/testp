@@ -12,6 +12,8 @@ namespace MNNN.TestP
         {
             Console.WriteLine("some stuf here!");
             Console.WriteLine("some stuf here!");
+
+            Console.WriteLine("some stuf here!");
         }
     }
 }
